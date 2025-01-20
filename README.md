@@ -16,7 +16,9 @@ In SQL & NoSQL Classifiaction:
 | PostgreQL |    |
 | Oracle |   |
 
+Storing data in Hard Disk is permanent/persistant data.
 
+For Storing Data in HD that must be in "file".
 ## Installation of MySQL on Window:
 
 MySQL Community Download MSI Installer link : [MySOL-MSI_installer-link](https://dev.mysql.com/downloads/installer/)
@@ -47,3 +49,5 @@ MySQL Community Download MSI Installer link : [MySOL-MSI_installer-link](https:/
 
 - Here see pratik user created and click on that we land on Client Workbench:
 ![Land-workbench](https://github.com/user-attachments/assets/47fc95f0-9a99-4610-9abd-a8bc0e7c4631)
+
+## 
