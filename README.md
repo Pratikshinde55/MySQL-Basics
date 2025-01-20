@@ -130,9 +130,13 @@ There different way to retrieve data
 3. To retrieve specific values in column:
 
         select * from Students where nameSTD="Pratik Shinde" ;
-   
+
+![select-2](https://github.com/user-attachments/assets/1f7011bf-c3e4-4524-bd11-8448e37d2098)
+  
 4. To retrieve specific coloumn with specific values:
 
         select mobile from Students where nameSTD="Sagar" ;
+
+![select-3](https://github.com/user-attachments/assets/a49e5fa6-3129-402a-aa29-ddce1d22773e)
 
 5. 
