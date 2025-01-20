@@ -139,4 +139,12 @@ There different way to retrieve data
 
 ![select-3](https://github.com/user-attachments/assets/a49e5fa6-3129-402a-aa29-ddce1d22773e)
 
-5. 
+5. select sum() function:
+
+         select sum(mobile) from Students where nameSTD='Pratik Shinde'
+
+6. count ():
+
+         select count() from Students;
+
+   
