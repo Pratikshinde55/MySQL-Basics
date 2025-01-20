@@ -1,7 +1,7 @@
 # MySQL-Basics
 
 ## DBMS(Data Base Management System)
-There are Two types of DBMS 
+There are Two types of DBMS: 
 1. SQL (RDBMS-Relational DataBase Management System)
 2. NoSQL
 
