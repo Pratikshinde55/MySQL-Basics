@@ -16,11 +16,10 @@ MySQL Community Download MSI Installer link : [MySOL-MSI_installer0link](https:/
 - Strong Password for version 8
 ![MySQL-Pass](https://github.com/user-attachments/assets/b36e80ce-85d3-4669-98e7-ad542ec3880a)
 
-- Create Password for MySQL
+- Create Password for MySQL, To access MySQL we need to connect MySQL Server for this we use Authentication:
 ![MySQL-Set-pass](https://github.com/user-attachments/assets/ae704f67-4bab-479f-81c8-fb05c3b2d749)
 
-- Start Workbench
+- Start Workbench 
 ![MySQL-set](https://github.com/user-attachments/assets/2d4a13e5-02a7-4cc5-aa72-998a5002f3f6)
-![MySQL-last](https://github.com/user-attachments/assets/f1752deb-042f-4220-83f2-05bb1bad488d)
 
 
