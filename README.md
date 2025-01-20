@@ -92,7 +92,7 @@ on "MySQL WorkBench" can run query from created connection.
 
     describe table Students;
 
-### Insert data into table:
+### Insert data into table: [Insert into table-name values()]
 There are different approch to add data in table:
 
 1. Just add data in series:
@@ -111,4 +111,5 @@ There are different approch to add data in table:
 
         insert into students (YearOfPass, nameSTD, mobile, remark) values(2020, "Panakj", 0535, 'good'), (20222, "Datta", 96171819, 'ok'), (2018, "Sagar", 11111111, 'fail');
 
+![insert-query](https://github.com/user-attachments/assets/bd21bb91-553b-4ed3-a98b-af38d7af0737)
 
