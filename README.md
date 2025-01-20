@@ -125,6 +125,8 @@ There different way to retrieve data
 
         select  nameSTD, remark from Students;
 
+![select-1](https://github.com/user-attachments/assets/371149c4-134d-492b-97bd-1c23bf993447)
+
 3. To retrieve specific values in column:
 
         select * from Students where nameSTD="Pratik Shinde" ;
