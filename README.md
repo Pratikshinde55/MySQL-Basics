@@ -61,8 +61,8 @@ MySQL Community Download MSI Installer link : [MySOL-MSI_installer-link](https:/
 on "MySQL WorkBench" can run query from created connection.
 
 - Note:
-1. There is no special need of remember or maintain capital small letter syntax in MySQL.
-2. We can use ; & If we don't use ; then also query run.
+1. There is no special need of remember or maintain Capital or Small letters syntax in MySQL.
+2. In MySQL for string data type use "char" or "varchar".
 3. We can put data in table, that data if is string & char then we put that data in "..." or '...'.
 
 
@@ -113,3 +113,24 @@ There are different approch to add data in table:
 
 ![insert-query](https://github.com/user-attachments/assets/bd21bb91-553b-4ed3-a98b-af38d7af0737)
 
+
+### To Read Data query or Retrieve:
+There different way to retrieve data
+
+1. To retrieve data:
+
+        select * from Students;
+
+2. To retrieve specific column:
+
+        select  nameSTD, remark from Students;
+
+3. To retrieve specific values in column:
+
+        select * from Students where nameSTD="Pratik Shinde" ;
+   
+4. To retrieve specific coloumn with specific values:
+
+        select mobile from Students where nameSTD="Sagar" ;
+
+5. 
