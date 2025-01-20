@@ -147,4 +147,27 @@ There different way to retrieve data
 
          select count() from Students;
 
+
+## Normalization: [Data Base design:- Normalization & RDBMS]
+Normalization is a efficent way to organize data in the Data Base.
+
+enum: 
+
+enum data type/keyword used in MySQL to fix table certain values. 
+
+char: 
+
+We use char for phone no. because phone no. is 10 digit When we use int then is problem in memory allocation.
+
+decimal:
+
+price decimal(3, 2), If any value in decimal then we use decimal keyword in query during creating table.
+
+unique: 
+
+To avoid duplication in table data we use "unique" keyword.
+
+auto_increment:
+
+This keyword we use during create a table, This helps to automatic increment in number & make specific column.
    
