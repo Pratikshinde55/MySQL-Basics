@@ -86,11 +86,17 @@ on "MySQL WorkBench" can run query from created connection.
 
     create table Students(YearOfPass int, nameSTD char(30), mobile char(10), remark char(7) );
     
-![Table-query](https://github.com/user-attachments/assets/d1f8ec7e-1ca1-4459-94cc-671c1ba256f8)
+![create-table](https://github.com/user-attachments/assets/ad45c439-9eaf-4d0b-8227-cf1e94d9a5e6)
 
-** Describe Table query:
+**Describe Table query:**
 
     describe table Students;
 
+### Insert data into table:
+There are different approch to add data in table:
+
+1. Just add data in series:
+
+       insert into Students values(24, "Pratik Shinde", 1234567890, 'nice');
 
 
