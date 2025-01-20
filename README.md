@@ -19,6 +19,9 @@ In SQL & NoSQL Classifiaction:
 Storing data in Hard Disk is permanent/persistant data.
 
 For Storing Data in HD that must be in "file".
+
+DataBase is just concept behind the scence the "data" is arranged in specific model, that data is put in "file" that is known as "Table".
+& That file is always put in Directory/Folder that directory is known as "Data Base".
 ## Installation of MySQL on Window:
 
 MySQL Community Download MSI Installer link : [MySOL-MSI_installer-link](https://dev.mysql.com/downloads/installer/)
