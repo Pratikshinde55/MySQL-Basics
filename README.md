@@ -20,6 +20,8 @@ Storing data in Hard Disk is permanent/persistant data.
 
 For Storing Data in HD that must be in "file".
 
+### MySQL & MariaDB Port NO: 3306
+
 ### Table & Data Base:
 DataBase is just concept behind the scence the "data" is arranged in specific model, that data is put in "file" that is known as "Table".
 & That file is always put in Directory/Folder that directory is known as "Data Base".
