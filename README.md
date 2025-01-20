@@ -64,4 +64,12 @@ on "MySQL WorkBench" can run query from created connection.
 1. There is no special need of remember or maintain capital small letter syntax in MySQL.
 2. We can use ; & If we don't use ; then also query run.
 3. We can put data in table, that data if is string & char then we put that data in "..." or '...'.
-   
+
+
+To Check List of Data Base Query is:
+
+    show databases;
+
+To Check list of Tables query is:
+
+    show tables;
