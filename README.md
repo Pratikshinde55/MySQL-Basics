@@ -99,4 +99,16 @@ There are different approch to add data in table:
 
        insert into Students values(24, "Pratik Shinde", 1234567890, 'nice');
 
+2. Add Specific values in certain coloumn:
+
+        insert into Students (nameSTD, remark) values("Luckhan", 'pass');
+
+3. Add Values:
+
+        insert into students (YearOfPass, nameSTD, mobile, remark) values(2024, "Soma", 1234123412, 'pass');
+
+4. Add multiple values in Table in single query:
+
+        insert into students (YearOfPass, nameSTD, mobile, remark) values(2020, "Panakj", 0535, 'good'), (20222, "Datta", 96171819, 'ok'), (2018, "Sagar", 11111111, 'fail');
+
 
