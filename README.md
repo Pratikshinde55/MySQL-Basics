@@ -13,10 +13,14 @@ In SQL:
 5. PostgreQL
 6. Oracle
 
-| 1.SQL-RDBMS | 2.NoSQL |
+| SQL-RDBMS | NoSQL |
 | ----------- | ----------- |
 | MySQL | MongoDB |
 | MariaDB | Casendra |
+| MsSQL | HBase |
+| DB2 |     |
+| PostgreQL |    |
+| Oracle |   |
 
 
 ## Installation of MySQL on Window:
