@@ -187,4 +187,6 @@ Insert values in table:
     
 ![Normalization-table](https://github.com/user-attachments/assets/bacd0567-2bfd-4386-a8fc-1b8fff3c4061)
 
+- Schemas:-
 
+  Schemas is Virtual planning or all data. Schemas also known as DataBase. Schemas show all sturcture of tables, columns DataBase.
