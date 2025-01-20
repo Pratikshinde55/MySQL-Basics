@@ -25,3 +25,8 @@ MySQL Community Download MSI Installer link : [MySOL-MSI_installer0link](https:/
 - MySQL Workbench open
 ![MySQL-Workbench](https://github.com/user-attachments/assets/052d7a48-dc2d-4ee9-b57c-797f7bd26b4d)
 
+- Go to "+" button to add new user 'MySQL Connection'
+![MySQL-Add-pratik-connection](https://github.com/user-attachments/assets/25429486-122b-46e8-9254-4fa49c82021e)
+
+- we see our pratik user created and click on that we land on Client Workbench:
+![Land-workbench](https://github.com/user-attachments/assets/47fc95f0-9a99-4610-9abd-a8bc0e7c4631)
