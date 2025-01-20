@@ -13,7 +13,7 @@ In SQL:
 5. PostgreQL
 6. Oracle
 
-| Syntax | Description |
+| SQL | NoSQL |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
