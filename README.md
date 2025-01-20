@@ -3,15 +3,9 @@
 ## DBMS(Data Base Management System)
 There are Two types of DBMS 
 1. SQL (RDBMS-Relational DataBase Management System)
-2. NOSQL
+2. NoSQL
 
-In SQL:
-1. MySQL
-2. MariaDB
-3. MsSQL
-4. DB2
-5. PostgreQL
-6. Oracle
+In SQL & NoSQL Classifiaction:
 
 | SQL-RDBMS | NoSQL |
 | ----------- | ----------- |
