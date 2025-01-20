@@ -185,3 +185,6 @@ Insert values in table:
     ('Lucky', 'Male', 111112222, 2.2, '2024-12-29', 'Application', 'Kande'),
     ('Shrdha', 'Female', 123123123, 3.5, '2018-10-22', 'DevOps', 'Vimal');
     
+![Normalization-table](https://github.com/user-attachments/assets/bacd0567-2bfd-4386-a8fc-1b8fff3c4061)
+
+
