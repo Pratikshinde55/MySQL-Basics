@@ -15,7 +15,7 @@ In SQL:
 
 | SQL | NoSQL |
 | ----------- | ----------- |
-| Header | Title |
+| MySQL | MongoDB |
 | Paragraph | Text |
 
 
