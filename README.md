@@ -192,14 +192,43 @@ Insert values in table:
 - **Foreign key:** "Foreign key link data in one table to the data in another table." 
 
 ## Alter & Update/set keyword:
-ALTER is keyword use in SQL to add new column in precreated table.
+**ALTER is keyword use in SQL to add new column in precreated table.**
 
     alter table Students add column country char(10);
 
 ![Alter-keyword](https://github.com/user-attachments/assets/7e3b52c1-49bf-4080-8e30-5be27d60170c)
 
-Set-update: Set is MySQL Keyword use to set a new value in already defined value in table.
+**Set-update: Set is MySQL Keyword use to set a new value in already defined value in table.**
 
     update Students SET course="DevOps" WHERE StudentID=3;
 
 ![Set-update](https://github.com/user-attachments/assets/54d644fd-51df-4588-ac06-c4249042ac66)
+
+
+## Delete Data Base & Table: [DROP, delete, truncate]
+
+### Drop: 
+It is use to delete data base as well as table. Entire Table and also Table name same for DataBase
+
+     drop table Students;
+
+Drop data base:
+
+     drop database psDB;
+
+![Drop](https://github.com/user-attachments/assets/912b9799-fb0c-4853-a4c0-45b3869aa850)
+     
+### Delete:
+delete is SQL keyword use to delete specific row in the table.
+
+     delete from Students WHERE StudentID=2;
+
+![Delete-row](https://github.com/user-attachments/assets/e10d5ec9-f04f-4965-baf4-6c5216520852)
+
+### Truncate:
+This is use to delete only all data in the table but table put with columns.
+
+     truncate table Students;
+
+![Truncate-keyword](https://github.com/user-attachments/assets/97670586-36d0-4b25-83c2-fc12dca63c6a)
+
