@@ -73,3 +73,15 @@ To Check List of Data Base Query is:
 To Check list of Tables query is:
 
     show tables;
+
+Create Data Base query:
+
+    create database psDB;
+
+To Use Data Base then query is:
+
+    use psDB;
+
+Create Table in Data Base:
+
+    create table Students(YearOfPass int, name char, mobile int, remark char(7) );
