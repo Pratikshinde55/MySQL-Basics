@@ -161,3 +161,14 @@ Normalization is a efficent way to organize data in the Data Base.
 
 **decimal:** price decimal(3, 2), If any value in decimal then we use decimal keyword in query during creating table.
 
+
+       create table Students (
+	     StudentID int unique auto_increment,
+         name char(30),
+         Gender  enum("Male" , "Female"),
+         Phone  char(12),
+         Course char(40),
+         CoursePrice  decimal(3,2),
+         RegTime char(20),
+         Teacher char(15)
+       );
