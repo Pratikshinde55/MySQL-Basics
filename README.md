@@ -163,7 +163,7 @@ Normalization is a efficent way to organize data in the Data Base.
 
 
        create table Students (
-	     StudentID int unique auto_increment,
+	 StudentID int unique auto_increment,
          name char(30),
          Gender  enum("Male" , "Female"),
          Phone  char(12),
@@ -172,3 +172,16 @@ Normalization is a efficent way to organize data in the Data Base.
          RegTime char(20),
          Teacher char(15)
        );
+
+Insert values in table:
+
+    INSERT INTO Students(
+    name, Gender, Phone, CoursePrice, RegTime, Course, Teacher
+    )
+    VALUES
+    ('Pratik Shinde', 'Male', 98505555, 3.5, '2023-01-30', 'DevOps', 'Vimal'),
+    ('Pankaj', 'Male', 11105350, 1.2, '2022-02-03', 'MachineLearning', 'Patil'),
+    ('Soma', 'Male', 12341234, 1.5, '2024-09-15', 'AI', 'Vimal'),
+    ('Lucky', 'Male', 111112222, 2.2, '2024-12-29', 'Application', 'Kande'),
+    ('Shrdha', 'Female', 123123123, 3.5, '2018-10-22', 'DevOps', 'Vimal');
+    
