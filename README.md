@@ -190,3 +190,16 @@ Insert values in table:
 - **Schemas:** "Schemas is Virtual planning or all data. Schemas also known as DataBase. Schemas show all sturcture of tables, columns DataBase."
 - **Primary Key:** "Primary key serve as unique identifiers for each row in database table."
 - **Foreign key:** "Foreign key link data in one table to the data in another table." 
+
+## Alter & Update/set keyword:
+ALTER is keyword use in SQL to add new column in precreated table.
+
+    alter table Students add column country char(10);
+
+![Alter-keyword](https://github.com/user-attachments/assets/7e3b52c1-49bf-4080-8e30-5be27d60170c)
+
+Set-update: Set is MySQL Keyword use to set a new value in already defined value in table.
+
+    update Students SET course="DevOps" WHERE StudentID=3;
+
+![Set-update](https://github.com/user-attachments/assets/54d644fd-51df-4588-ac06-c4249042ac66)
