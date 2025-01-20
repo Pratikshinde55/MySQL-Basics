@@ -55,4 +55,11 @@ MySQL Community Download MSI Installer link : [MySOL-MSI_installer-link](https:/
 - Here see pratik user created and click on that we land on Client Workbench:
 ![Land-workbench](https://github.com/user-attachments/assets/47fc95f0-9a99-4610-9abd-a8bc0e7c4631)
 
-## 
+## On Workbech:
+on "MySQL WorkBench" can run query from created connection.
+
+- Note:
+1. There is no special need of remember or maintain capital small letter syntax in MySQL.
+2. We can use ; & If we don't use ; then also query run.
+3. we can put data in table, that data if is string & char then we put that data in "" or ''.
+   
