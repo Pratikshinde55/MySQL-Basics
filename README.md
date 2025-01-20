@@ -85,5 +85,7 @@ on "MySQL WorkBench" can run query from created connection.
 **Create Table in Data Base:**
 
     create table Students(YearOfPass int, name char, mobile int, remark char(7) );
+    
+![Table-query](https://github.com/user-attachments/assets/d1f8ec7e-1ca1-4459-94cc-671c1ba256f8)
 
 
