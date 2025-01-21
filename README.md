@@ -1,4 +1,15 @@
 # MySQL-Basics
+MySQL is a popular and powerful database system used to store and manage data, while SQL is the language used to interact with that data. They are essential in the world of web development and data management.
+
+1.What is MySQL? 
+MySQL is an open-source relational database management system (RDBMS) that stores, retrieves, and manages data in tables using SQL (Structured Query Language).
+2. What is SQL?
+SQL stands for Structured Query Language. It is a standard programming language used to communicate with databases to perform tasks such as querying, updating, and managing data.
+3. How Does MySQL Work?
+MySQL uses SQL commands to interact with a database.
+It organizes data into tables with rows (records) and columns (fields).
+MySQL handles operations like adding, updating, and retrieving data from these tables.
+
 
 ## DBMS(Data Base Management System)
 There are Two types of DBMS: 
