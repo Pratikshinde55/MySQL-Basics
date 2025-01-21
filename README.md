@@ -1,4 +1,4 @@
-# MySQL-Basics
+# Complete MySQL Tutorial: Learn SQL from Setup to Advanced Queries
 MySQL is a popular and powerful database system used to store and manage data, while SQL is the language used to interact with that data. They are essential in the world of web development and data management.
 
 ### What is MySQL? 
