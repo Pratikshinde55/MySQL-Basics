@@ -17,6 +17,9 @@ SQL stands for Structured Query Language. It is a standard programming language 
 - Data Control Language (DCL): Commands like GRANT, REVOKE to control access to data.
 - Transaction Control Language (TCL): Commands like COMMIT, ROLLBACK to manage transactions.
 
+### What is a Subquery in SQL?
+A Subquery is a query within another query. It is used to return data that will be used by the outer query. Subqueries can be in the WHERE, FROM, or SELECT clauses.
+
 ## DBMS(Data Base Management System)
 There are Two types of DBMS: 
 1. SQL (RDBMS-Relational DataBase Management System)
