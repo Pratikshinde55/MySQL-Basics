@@ -10,6 +10,13 @@ SQL stands for Structured Query Language. It is a standard programming language 
 - It organizes data into tables with rows (records) and columns (fields).
 - MySQL handles operations like adding, updating, and retrieving data from these tables.
 
+### What are the types of SQL Commands?
+- Data Query Language (DQL): Commands like SELECT to retrieve data.
+- Data Definition Language (DDL): Commands like CREATE, ALTER, DROP to define and modify database structures.
+- Data Manipulation Language (DML): Commands like INSERT, UPDATE, DELETE to modify data.
+- Data Control Language (DCL): Commands like GRANT, REVOKE to control access to data.
+- Transaction Control Language (TCL): Commands like COMMIT, ROLLBACK to manage transactions.
+
 ## DBMS(Data Base Management System)
 There are Two types of DBMS: 
 1. SQL (RDBMS-Relational DataBase Management System)
