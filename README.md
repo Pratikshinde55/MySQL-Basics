@@ -28,7 +28,7 @@ DataBase is just concept behind the scence the "data" is arranged in specific mo
 
 ## Installation of MySQL on Window:
 
-MySQL Community Download MSI Installer link : [MySOL-MSI_installer-link](https://dev.mysql.com/downloads/installer/)
+MySQL Community Download MSI Installer link : [MySQL-MSI_installer-link](https://dev.mysql.com/downloads/installer/)
 
 - Click On Custom
 ![MySQL-custom](https://github.com/user-attachments/assets/9dacd1c8-da72-456b-a368-b276a7babaa2)
@@ -291,4 +291,4 @@ Create user for any laptop or from any machine this user can able to connect wit
 
 **Show list of pratik user power for all machines login:**
 
-   show grants for 'pratik'@'%' ;
+    show grants for 'pratik'@'%' ;
