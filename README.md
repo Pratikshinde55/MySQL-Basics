@@ -239,15 +239,15 @@ We can create MySQL user and give permissions to that user. We can also able to 
 
 **Connect to MySQL with root user:**
 
-   msql -h <ec2_public_IP> -u root -p
+    msql -h <ec2_public_IP> -u root -p
 
 **Command of create user for MySQL with password ps:(This user create for only my Laptop)**
 
-   create user pratik@localhost identified by 'ps';
+    create user pratik@localhost identified by 'ps';
 
 **Connect to this user from GitBash and we inter in MySQl:** 
 
-   mysql -h 127.0.0.1 -u pratik -p;
+    mysql -h 127.0.0.1 -u pratik -p;
 
 
 ### GRANT ON  TO:[Give Power to user]
@@ -255,23 +255,23 @@ We need power to pratik user for create tables, databases & so on things:
 
 **Give select power to specific table and specific Database(DataBase.Table):**
 
-   GRANT select on <DataBase_name>.<Table_Name to 'pratik'@'Public_IP'
+    GRANT select on <DataBase_name>.<Table_Name to 'pratik'@'Public_IP'
 
 **Give power multiple power to pratik user to all DataBases and Tables(*.*):**
 
-   grant select,insert ON *.* TO 'pratik'@'my_laptop_public_ip';
+    grant select,insert ON *.* TO 'pratik'@'my_laptop_public_ip';
 
 **See the power of pratik user:**
 
-   show grants for 'pratik'@'localhost';
+    show grants for 'pratik'@'localhost';
 
 **See the power of pratik user:**
 
-   show grants for 'pratik'@'my_laptop_public_ip';
+    show grants for 'pratik'@'my_laptop_public_ip';
 
 **Give ALL Power(ALL PRIVILEGES) To Pratik User:**(We can get all power like root for run query)
 
-   GRANT ALL PRIVILEGES on *.* to 'pratik'@'IP';
+    GRANT ALL PRIVILEGES on *.* to 'pratik'@'IP';
 
 ### REVOKE ON FROM :[Remove Power]
 This is used to remove power from user.
@@ -292,5 +292,3 @@ Create user for any laptop or from any machine this user can able to connect wit
 **Show list of pratik user power for all machines login:**
 
    show grants for 'pratik'@'%' ;
-
-
